@@ -65,7 +65,7 @@
   <div class="counter">Données « chiffrées » dans : <span id="timer">00:59:59</span></div>
 </main>
 
-<div class="dedicace">// dédicace : Thierry Peyre //</div>
+<div class="dedicace">// dédicace : Thierry Peyre & Lucas Videlaine //</div>
 
 <div class="edu">
   DÉCOUVERTE DU PENTESTING — Pentest d'un serveur HTTP · BUT R&amp;T · SAE3Cyber04
